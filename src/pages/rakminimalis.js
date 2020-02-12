@@ -15,7 +15,7 @@ const RakminimalisPage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="Rak supermarket minimalis,rak minimarket minimalis,rak toko minimalis" />
       <h1><a href="rakminimalis" title="rak minimalis">Rak Minimalis Modern</a></h1><hr/>
-	  <img alt="Rak supermarket minimalis,rak minimarket minimalis,rak toko minimalis" class="img-fluid rounded shadow shadow-lg" src="/img/rakminimalis.jpg"/>
+	  <img alt="Rak supermarket minimalis,rak minimarket minimalis,rak toko minimalis" class="img-fluid rounded shadow shadow-lg" src="https://raksupermarket.github.io/img/rakminimalis.jpg"/>
 <p>	  
 Rak minimalis full plat besi terbaik digunakan untuk yang membutuhkan dalam menunjang desain interior <a href="rakminimalis" title="rak minimalis">minimalis</a> dan clean dalam penggunaan nya. mode ini banyak digunakan pada baby shop , butik , toys shop , pet shop , apotik farmasi dalam kebutuhan menunjang display agar lebih elegan dan mewah.</p>
 <p>Diproduksi dengan full plat besi dan menggunakan knockdown system memudahkan dalam memasang nya dimana saja sesuai dengan desain keinginan dan penempatan.</p>
