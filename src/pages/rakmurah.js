@@ -15,12 +15,12 @@ const RakmurahPage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="Rak supermarket murah,rak minimarket murah,rak toko murah" />
       <h1>Rak Display Ram</h1><hr/>
-	  <img alt="Rak supermarket murah,rak minimarket murah,rak toko murah" class="img-fluid rounded shadow shadow-lg" src="/img/rakmurah.jpg"/>
+	  <img alt="Rak supermarket murah,rak minimarket murah,rak toko murah" class="img-fluid rounded shadow shadow-lg" src="https://raksupermarket.github.io/img/rakmurah.jpg"/>
 <p>	  
 Rak type dan jenis ini banyak digunakan pada usaha <a title="supermarket minimarket toko shop store outlet" href="/rakmurah">supermarket minimarket dan toko shop store outlet</a> pada umumnya dalam kebutuhan rak display untuk memajang produk produk dagangan nya, diproduksi dengan menggunakan bahan baku full besi menjadikan lebih kuat awet dan tahan lama untuk digunakan, selanjutnya powder coating pada pelapis warna cat berguna untuk anti korosi semakin sempurna dalam menggunakan produk ini.</p>
-<img alt="Rak supermarket murah,rak minimarket murah,rak toko murah" class="img-fluid rounded shadow shadow-lg" src="/img/raktokosupermarket.jpg"/>
+<img alt="Rak supermarket murah,rak minimarket murah,rak toko murah" class="img-fluid rounded shadow shadow-lg" src="https://raksupermarket.github.io/img/raktokosupermarket.jpg"/>
 <p>Tehnik perakitan menggunakan knock down system memudahkan untuk memasang nya dimana saja sesuai kebutuhan mu, semakin ringkas dan cepat pada aplikasi penempatan sesuai dengan tatanan desain mu.</p>
-<img alt="Rak supermarket murah,rak minimarket murah,rak toko murah" class="img-fluid rounded shadow shadow-lg" src="/img/rakminimarket.jpg"/>
+<img alt="Rak supermarket murah,rak minimarket murah,rak toko murah" class="img-fluid rounded shadow shadow-lg" src="https://raksupermarket.github.io/img/rakminimarket.jpg"/>
 <p>
 SPESIFIKASI :<br/>
 Tebal shelfing papan : 0.7mm.<br/>
