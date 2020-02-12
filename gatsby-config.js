@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `PABRIK RAK`,
+    author: `PABRIK RAK`,
+    description: `rak supermarket,rak minimarket,rak toko,meja kasir,rak farmasi,rak gudang,meja kasir untuk binis mu by pabrik rak.`,
+    siteUrl: `https://pabrikrak.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `hockeycomp`,
     },
   },
   plugins: [
