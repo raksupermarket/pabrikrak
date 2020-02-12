@@ -12,6 +12,14 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const { previous, next } = pageContext
 
   return (
+  	      <div
+      style={{
+        marginLeft: `auto`,
+        marginRight: `auto`,
+        maxWidth: rhythm(44),
+        padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+      }}
+    >
     <Layout location={location} title={siteTitle}>
       <SEO
         title={post.frontmatter.title}
@@ -47,7 +55,6 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           <Bio />
         </footer>
       </article>
-
       <nav>
         <ul
           style={{
@@ -75,6 +82,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         </ul>
       </nav>
     </Layout>
+	</div>
   )
 }
 
