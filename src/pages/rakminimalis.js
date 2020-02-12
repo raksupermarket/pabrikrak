@@ -38,7 +38,7 @@ Join rak tambahan yang menopang pada starter.<br/>
 Produk yang mewah dan sangat mewah untuk digunakan dalam memajang display dagangan dengan full plat besi tentu memiliki kekuatan yang sudah tidak perlu diragukan dan sangat powerfull dalam berbagai aspek kebutuhan display.
 </p>
 <p>HARGA :<br/>
-Harga relatif sedikit lebih mahal dibandingkan dengan <a title="rak murah" href="rakmurah">rak murah</a> type ram jaring ,hal ini dikarenakan produksi nya menggunakan full plat besi yang menciptakan kekuatan powerfull dalam menahan beban serta desain yang mewah dan elegan serta clean.Harga yang setara dengan kualitas bisa didapatkan pada produk ini.
+Harga relatif sedikit lebih mahal dibandingkan dengan <a title="rak murah" href="/rakmurah">rak murah</a> type ram jaring ,hal ini dikarenakan produksi nya menggunakan full plat besi yang menciptakan kekuatan powerfull dalam menahan beban serta desain yang mewah dan elegan serta clean.Harga yang setara dengan kualitas bisa didapatkan pada produk ini.
 </p>
 <p>Demo video klik dibawah ini</p>
 <a href="https://www.youtube.com/watch?v=Ovbk5CqYcKE&list=PLQDm6k9_HvYP5hlwkvNRYFColHFkyeRlM&index=65&t=12s" class="button" target="blank">Pemasangan</a>.
