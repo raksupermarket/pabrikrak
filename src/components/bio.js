@@ -24,17 +24,14 @@ const Bio = () => {
       site {
         siteMetadata {
           author
-          social {
-            twitter
-          }
         }
       }
     }
   `)
 
-  const { author, social } = data.site.siteMetadata
+  const { author } = data.site.siteMetadata
   return (
-    <div
+    <div class="bg-light"
       style={{
         display: `flex`,
         marginBottom: rhythm(2.5),
@@ -54,12 +51,8 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in San
-        Francisco building useful things.
-        {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
-        </a>
+What Pabrik Rak Do
+Kami memproduksi sebuah produk rak besi untuk digunakan pada berbagai kebutuhan seperti kebutuhan rak untuk supermarket minimarket toko modern mart dan meja kasir yang dapat digunakan pada berbagai bidang usaha retail shop store.
       </p>
     </div>
   )
