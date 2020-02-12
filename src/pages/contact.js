@@ -13,7 +13,7 @@ const ContactPage = ({ data, location }) => {
   <div class="col-12 col-md-6 p-3 p-md-5 bg-white text-center">
     <Layout location={location} title={siteTitle}>
       <SEO title="Hubungi pabrik rak" />
-      <h1>Contact Us</h1><hr/><p><img class="img-fluid" src="/img/pabrikrak.jpg" alt="rak pabrik"/></p>
+      <h1>Contact Us</h1><hr/><p><img class="img-fluid" src="https://raksupermarket.github.io/img/pabrikrak.jpg" alt="rak pabrik"/></p>
 <p>	  
 Showroom<br/>
 Ruko pasar wisata juanda blok Q.07.<br/>
