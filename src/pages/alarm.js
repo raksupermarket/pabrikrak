@@ -15,11 +15,11 @@ const AlarmPage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="Alarm security toko baju supermarket" />
       <h1><strong><a href="alarm" title="Alarm security toko baju supermarket">ALARM SECURITY</a></strong></h1><hr/>
-	  <img alt="alarm security" class="img-fluid rounded shadow shadow-lg" src="/img/SENSOR-ALARM-SECURITY-SYSTEM-SUPERMARKET-TOKO-BAJU-BUTIK-terbaru.jpg"/>
+	  <img alt="alarm security" class="img-fluid rounded shadow shadow-lg" src="https://raksupermarket.github.io/img/SENSOR-ALARM-SECURITY-SYSTEM-SUPERMARKET-TOKO-BAJU-BUTIK-terbaru.jpg"/>
 <p>
 Alarm security sangat dibutuhkan dalam menjaga keamanan aset usaha anda, dengan <a href="alarm" title="Alarm security toko baju supermarket">alarm security</a> ini maka anda dapat menangkap langsung tangan jahil pencuri include dengan barang buktinya secara langsung, diproduksi dengan system yang mudah digunakan plug and play tanpa software semakin memudahkan anda dalam operasional pemasangan nya.
 </p>
-	  <img alt="meja kasir terbaru" class="img-fluid rounded shadow shadow-lg" src="/img/TIANG-ALARM-SUPERMARKET-TOKO-BAJU-BUTIK.jpg"/>
+	  <img alt="meja kasir terbaru" class="img-fluid rounded shadow shadow-lg" src="https://raksupermarket.github.io/img/TIANG-ALARM-SUPERMARKET-TOKO-BAJU-BUTIK.jpg"/>
 <p>Cara penggunaan nya pun sangat mudah tinggal dipasangkan pada pintu keluar pengunjung saja, dengan one gate system maka alarm ini mampu membaca sisi kiri dan sisi kanan masing masing 75cm seperti banyak digunakan pada supermarket modern seperti careffour giant hypermart banyak menggunakan system alarm ini untuk menjaga barang barang nya dari pencuri.</p>
 <p>System kerja
 pada system kerjanya menggunakan sensor untuk ditempelkan pada produk produk hal ini diperlukan untuk menditeksi apabila sensor belum terlepas dari produk maka alarm ini akan berbunyi dan ini berarti bahwa ada produk anda yang diambil oleh pencuri jadi dengan mudah security anda menangkap langsung pencuri tersebut plus barang bukti.
