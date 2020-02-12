@@ -1,6 +1,8 @@
 import React from "react"
 import { Link } from "gatsby"
 
+import "./layout.css"
+import "./milligram.css"
 import { rhythm, scale } from "../utils/typography"
 
 const Layout = ({ location, title, children }) => {
@@ -54,16 +56,16 @@ const Layout = ({ location, title, children }) => {
       style={{
         marginLeft: `auto`,
         marginRight: `auto`,
-        maxWidth: rhythm(24),
+        maxWidth: rhythm(94),
         padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
       }}
     >
       <header>{header}</header>
       <main>{children}</main>
-      <footer>
-        © {new Date().getFullYear()}, Built with
+      <footer class="text-center"><small>
+        © <a href="https://pabrikrak.com">pabrikrak.com</a>, Built with
         {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
+        <a href="https://www.gatsbyjs.org" target="blank">Gatsby</a></small>
       </footer>
     </div>
   )
