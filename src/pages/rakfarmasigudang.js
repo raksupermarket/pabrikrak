@@ -15,13 +15,13 @@ const RakfarmasigudangPage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="Rak farmasi laboratorium dan rak gudang warehouse heavy dutty" />
       <h1><strong><a href="rakfarmasigudang" title="rak farmasi dan gudang">Rak Farmasi Gudang</a></strong></h1><hr/>
-	  <img alt="Rak farmasi laboratorium dan rak gudang warehouse heavy dutty" class="img-fluid rounded shadow shadow-lg" src="/img/rak GUDANG supermarket TOKO MINIMARKET.jpg"/>
+	  <img alt="Rak farmasi laboratorium dan rak gudang warehouse heavy dutty" class="img-fluid rounded shadow shadow-lg" src="https://raksupermarket.github.io/img/rak GUDANG supermarket TOKO MINIMARKET.jpg"/>
 <p>	  
 Rak gudang atau rak grosir sejenis dengan <a href="rakfarmasigudang" title="rak farmasi laboratorium">rak farmasi rak laboratorium</a> dalam masing masing fungsi nya. diproduksi dengan bahan baku pilihan full besi yang kuat awet kokoh dan tahan lama menjadikan lebih baik dalam menunjang kebutuhan warehouse gudang anda , selain itu dengan knock down system memudahkan dalam pemasangan dan perakitan nya untuk kebutuhan usaha anda.
 </p>
-	  <img alt="Rak farmasi laboratorium dan rak gudang warehouse heavy dutty" class="img-fluid rounded shadow shadow-lg" src="/img/rakfarmasilab.jpg"/>
+	  <img alt="Rak farmasi laboratorium dan rak gudang warehouse heavy dutty" class="img-fluid rounded shadow shadow-lg" src="https://raksupermarket.github.io/img/rakfarmasilab.jpg"/>
 <p>Desain minimalis modern menjadikan lebih cantik dari estetika desain dan kuat dalam menahan beban yang berat, dan dengan finishing powder coating di oven menjadikan lebih baik dalam kebutuhan pewarnaan sehingga warna menjadi tahan lama ketika berada di suhu minus dan biasanya digunakan pada rak farmasi rak laboratorium dan BPOM menggunakan rak farmasi rak laboratorium <a href="rakfarmasigudang" title="rak gudang warehouse">rak gudang</a> grosir kami ini dalam kebutuhan nya.</p>
-	  <img alt="Rak farmasi laboratorium dan rak gudang warehouse heavy dutty" class="img-fluid rounded shadow shadow-lg" src="/img/rakgudangwarehouse.jpg"/>
+	  <img alt="Rak farmasi laboratorium dan rak gudang warehouse heavy dutty" class="img-fluid rounded shadow shadow-lg" src="https://raksupermarket.github.io/img/rakgudangwarehouse.jpg"/>
 <p>Untuk pemilihan warna sendiri anda bebas untuk memilih warna sesuai dengan selera anda atau bisa disamakan dengan warna cat dinding ruangan anda, sehingga selain merapikan produk produk gudang maupun lab anda juga mampu untuk mempercantik ruangan usaha.</p>
 <p>harga produksi nya juga setara dengan kualitas dalam kebutuhan usaha anda sehingga lebih baik untuk digunakan pada usaha anda baik untuk menahan beban berat maupun untuk mempercantik ruangan usaha anda.</p>
 <p>Demo video klik dibawah ini</p>
