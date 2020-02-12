@@ -14,7 +14,7 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
 		<div class="masthead-followup row m-0 bg-white border border-white">
  <div class="col-12 col-md-12 p-0 p-md-0 bg-white border border-light text-center">
- <img alt="Mesin kasir" class="img-fluid" width="100%" src="/img/PABRIK RAK PROSES PRODUKSI.jpg"/>
+ <img alt="Mesin kasir" class="img-fluid" width="100%" src="img/PABRIK RAK PROSES PRODUKSI.jpg"/>
  </div>
     <div class="col-12 col-md-12 p-3 p-md-5 bg-white border border-light">
       <SEO title="pabrik rak supermarket,rak minimarket,rak toko,meja kasir,mesin kasir " />
