@@ -14,14 +14,14 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
 		<div class="masthead-followup row m-0 bg-white border border-white">
  <div class="col-12 col-md-12 p-0 p-md-0 bg-white border border-light text-center">
- <img alt="Mesin kasir" class="img-fluid" width="100%" src="img/PABRIK RAK PROSES PRODUKSI.jpg"/>
+ <img alt="Mesin kasir" class="img-fluid" width="100%" src="/pages/img/PABRIK RAK PROSES PRODUKSI.jpg"/>
  </div>
     <div class="col-12 col-md-12 p-3 p-md-5 bg-white border border-light">
       <SEO title="pabrik rak supermarket,rak minimarket,rak toko,meja kasir,mesin kasir " />
       <Bio />
 	  </div>
 	   <div class="col-12 col-md-12 p-0 p-md-0 bg-white border border-light text-center">
- <img alt="rak supermarket" class="img-fluid" width="100%" src="/img/tokojualmesinkasir.png"/>
+ <img alt="rak supermarket" class="img-fluid" width="100%" src="/src/pages/img/tokojualmesinkasir.png"/>
  </div>
     <div class="col-12 col-md-12 p-3 p-md-5 bg-light text-center border border-light">
    <p><strong>PABRIK RAK SUPERMARKET MINIMARKET RAK TOKO MEJA KASIR</strong><br/>Produksi rak supermarket rak minimarket rak toko rak display dan meja kasir serta mesin kasir system live proses produksi langsung.</p>
@@ -29,7 +29,7 @@ const BlogIndex = ({ data, location }) => {
 	  </div>
 	   <div class="col-12 col-md-6 p-0 p-md-0 bg-white border border-light text-center">
 	   <Link title="rak supermarket murah,rak minimarket murah,rak toko murah" to="rakmurah">
- <img alt="rak supermarket murah,rak minimarket murah,rak toko murah" class="img-fluid" width="100%" src="/img/rakmurah.jpg"/></Link>
+ <img alt="rak supermarket murah,rak minimarket murah,rak toko murah" class="img-fluid" width="100%" src="src/pages/img/rakmurah.jpg"/></Link>
  <p>Rak murah ram jaring display</p>
  </div>
    <div class="col-12 col-md-6 p-0 p-md-0 bg-white border border-light text-center">
