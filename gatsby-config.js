@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `PABRIK RAK`,
+    title: `PABRIK RAK - RAK TOKO`,
     author: `PABRIK RAK`,
-    description: `rak supermarket,rak minimarket,rak toko,meja kasir,rak farmasi,rak gudang,meja kasir untuk binis mu by pabrik rak.`,
+    description: `rak toko,rak minimarket,rak supermarket,meja kasir,rak farmasi,rak gudang,meja kasir untuk binis mu by pabrik rak.`,
     siteUrl: `https://pabrikrak.com`,
     social: {
       twitter: `hockeycomp`,
