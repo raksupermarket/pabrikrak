@@ -17,7 +17,7 @@ const BlogIndex = ({ data, location }) => {
  <img alt="Mesin kasir" class="img-fluid" width="100%" src="https://raksupermarket.github.io/img/PABRIK RAK PROSES PRODUKSI.jpg"/>
  </div>
     <div class="col-12 col-md-12 p-3 p-md-5 bg-white border border-light">
-      <SEO title="pabrik rak supermarket,rak minimarket,rak toko,meja kasir,mesin kasir " />
+      <SEO title="rak toko,rak minimarket,rak supermarket,meja kasir,mesin kasir" />
       <Bio />
 	  </div>
 	   <div class="col-12 col-md-12 p-0 p-md-0 bg-white border border-light text-center">
